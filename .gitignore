@@ -1,0 +1,13 @@
+node_modules/
+
+.DS_STORE
+
+.DS_Store
+
+backend/pdfs
+
+config.json
+
+.env
+
+backend/count.txt
